@@ -23,7 +23,8 @@ const DoctorCard: React.FC<DoctorCardProps> = ({ doctor, onClick }) => {
           className="w-full h-full object-cover"
           onError={(e) => {
             const target = e.target as HTMLImageElement;
-            target.src = "https://via.placeholder.com/400?text=Doctor";
+            target.src =
+              "https://media.istockphoto.com/id/1055079680/vector/black-linear-photo-camera-like-no-image-available.jpg?s=612x612&w=0&k=20&c=P1DebpeMIAtXj_ZbVsKVvg-duuL0v9DlrOZUvPG6UJk=";
           }}
         />
       </div>
