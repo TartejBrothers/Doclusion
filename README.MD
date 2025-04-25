@@ -4,7 +4,7 @@ Doclusion is a modern, user-friendly web application that helps patients find an
 
 ## Features
 
-### 🔍 Advanced Search & Filtering
+### Advanced Search & Filtering
 
 - **Search by Name**: Quickly find doctors using the search bar
 - **Specialty Filter**: Filter doctors by their medical specialties
@@ -12,7 +12,7 @@ Doclusion is a modern, user-friendly web application that helps patients find an
 - **Smart Sorting**: Sort doctors by fees or experience
 - **Mobile-Friendly Filters**: Responsive design with mobile-optimized filter panel
 
-### 👨‍⚕️ Doctor Profiles
+### Doctor Profiles
 
 - **Comprehensive Information**: View detailed doctor profiles including:
   - Professional photo
@@ -23,7 +23,7 @@ Doclusion is a modern, user-friendly web application that helps patients find an
   - Clinic details
   - Available consultation modes
 
-### 🎨 Modern UI/UX
+### Modern UI/UX
 
 - **Responsive Design**: Seamless experience across all devices
 - **Animated Transitions**: Smooth animations using Framer Motion
@@ -118,6 +118,14 @@ src/
 - Comprehensive doctor information
 - Clinic details with map link
 - Booking functionality
+
+### Demonstration
+
+<img src="./readme/readme-5.jpg" alt="Demo 5" style="margin-bottom: 10px;"  />
+<img src="./readme/readme-4.jpg" alt="Demo 4" style="margin-bottom: 10px;"  />
+<img src="./readme/readme-3.jpg" alt="Demo 3" style="margin-bottom: 10px;"  />
+<img src="./readme/readme-1.jpg" alt="Demo 1" style="margin-bottom: 10px;"  />
+<img src="./readme/readme-2.jpg" alt="Demo 2" style="margin-bottom: 10px;"  />
 
 ## Contributing
 
