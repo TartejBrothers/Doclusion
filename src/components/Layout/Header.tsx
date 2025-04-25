@@ -65,7 +65,9 @@ const Header: React.FC<HeaderProps> = ({
               Your Health, Our{" "}
               <span className="text-primary-500">Priority</span>
             </h1>
-
+            <h5 className="text-4xl sm:text-6xl font-extrabold text-primary-800 bg-gradient-to-r from-primary-500 via-primary-600 to-primary-700 text-transparent bg-clip-text mb-6 px-4 py-2 rounded-full  backdrop-blur-md">
+              DOCLUSION
+            </h5>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-12">
               Connect with top healthcare professionals instantly. Book
               appointments, get consultations, and take control of your health
